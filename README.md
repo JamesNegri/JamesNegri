@@ -1,7 +1,6 @@
 # Hi, I'm James
 <a href="https://www.linkedin.com/in/james-negri"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/jamesnegri94.png" alt="TryHackMe Badge" />
+
 
 U.S. Marine Corps veteran with 8 months of hands-on IT support experience and CompTIA Network+, Security+, and ISC2 CC certifications. Currently working as an IT Specialist — supporting 200+ end users across multiple sites with a focus on endpoint security, MDM, and help desk operations. I enjoy building efficient systems and automating repetitive work. Actively building toward a career in cybersecurity.
 
@@ -13,7 +12,7 @@ Grounded in military discipline and real-world IT experience, I'm working toward
 
 | Project | Description | Tools |
 |---|---|---|
-| [Phishing & Spam Detector](https://github.com/JamesNegri/phishing-spam-detector) | ML model that classifies SMS messages as spam or ham using NLP and Naive Bayes. 96.86% accuracy, 100% precision. Includes interactive demo. | Python, scikit-learn, NLTK, Pandas |
+| [Phishing & Spam Detector](https://github.com/JamesNegri/phishing-spam-detector) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JamesNegri/phishing-spam-detector/blob/main/spam_detector.ipynb) | ML model that classifies SMS messages as spam or ham using NLP and Naive Bayes. 96.86% accuracy, 100% precision. Includes interactive demo. | Python, scikit-learn, NLTK, Pandas |
 
 ## Skills
 
