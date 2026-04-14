@@ -9,6 +9,12 @@ U.S. Marine Corps veteran with 8 months of hands-on IT support experience and Co
 
 Grounded in military discipline and real-world IT experience, I'm working toward a role as a SOC Tier 1 Analyst — bringing a strong foundation in endpoint security, network fundamentals, and a drive to keep learning.
 
+## Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [Phishing & Spam Detector](https://github.com/JamesNegri/phishing-spam-detector) | ML model that classifies SMS messages as spam or ham using NLP and Naive Bayes. 96.86% accuracy, 100% precision. Includes interactive demo. | Python, scikit-learn, NLTK, Pandas |
+
 ## Skills
 
 | Category | Skills |
@@ -62,6 +68,3 @@ Grounded in military discipline and real-world IT experience, I'm working toward
   <img src="https://img.shields.io/badge/-TryHackMe%20Cybersecurity%20101-5F00A5?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
-
-## Projects
-- Build Your Own AI *(link coming soon)*
